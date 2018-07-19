@@ -1,4 +1,4 @@
 <?php
-echo 'hellow git';
+echo 'hello git hello word';
 
 ?>
